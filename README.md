@@ -1,5 +1,5 @@
 
-### Project Title: Hotel Booking Cancellation Data Analysis
+### Project Title: Hotel Booking Cancellation Using Excel
 
 ### Project Overview
 This project involves analyzing a dataset of 119,390 hotel bookings for City and Resort Hotels between July 1, 2015, and August 31, 2017. The analysis focuses on understanding patterns and factors influencing booking cancellations, using Excel for data processing, cleaning, and visualization.
